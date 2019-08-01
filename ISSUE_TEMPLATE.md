@@ -19,6 +19,7 @@ If applicable, add demo project.
 
 ### Versions
 **Xcode:** x.x
+**Compiler Version:** x.x
 **Mac OS:** xx.xx.x
 **Simulator/Device:** xx.x
 **Simulator/Device Name:** iPhone xx
